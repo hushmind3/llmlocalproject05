@@ -1,4 +1,5 @@
 
+![내가만든llm](https://github.com/user-attachments/assets/0b06b11e-bf32-4519-9b4d-b1f1230ef867)
 
 
 
