@@ -1,7 +1,7 @@
 
 ![내가만든llm](https://github.com/user-attachments/assets/0b06b11e-bf32-4519-9b4d-b1f1230ef867)
 
-
+'Technologies Used / Backend' 섹션에 다음 내용을 추가하세요. "Ollama: A powerful tool for running large language models locally. This project utilizes Ollama to load and run the LLM model defined in backend/model.py. (Ollama: 로컬에서 대규모 언어 모델을 실행하기 위한 강력한 도구입니다. 이 프로젝트는 Ollama를 사용하여 backend/model.py에 정의된 LLM 모델을 로드하고 실행합니다.)"
 
 # 🤖 AI-Powered RAG Chatbot (AI-Assisted Non-Developer Built, Local & Full-Stack) + Agent & MCP Features Under Development (Not Yet Implemented)
 # 🤖 AI 기반 RAG 챗봇 (AI 활용 비개발자 제작, 로컬 구동 & 풀스택) + 에이전트 & MCP 기능 개발 중
